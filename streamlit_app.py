@@ -432,7 +432,7 @@ st.markdown("""
         .evaluation-box {
             background: linear-gradient(135deg, #1e293b, #0f172a);
             border-color: #d97706;
-        }
+        } 
         
         .stFileUploader [data-testid="stFileUploaderDropzone"] {
             background-color: var(--bg-secondary);
