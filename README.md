@@ -1,5 +1,9 @@
 # 🔍 Smart Research Assistant
 
+[![Demo Video](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/3qAPiV4LkL0)
+
+<iframe width="560" height="315" src="https://youtu.be/3qAPiV4LkL0" frameborder="0" allowfullscreen></iframe>
+
 An AI-powered document analysis tool that helps you interact with research papers, reports, and documents through intelligent questioning and comprehension testing.
 
 ## ✨ Features
